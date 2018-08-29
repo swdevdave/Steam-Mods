@@ -7,14 +7,13 @@ But where are the lights we have today? LED?
 
 Well here you go.
 
-LED Lamps only use only 10 watts. 
-Slightly more durable 60 hp vs. basic lamp of 50. 
-+1 Beauty, as your colonists enjoy that fact you are being enery conservitive. 
-Light color is more of a natual white light RGB 250,250,250. 
-Only 3kg vs 4kg 
-Way less chance of casuing fire. 
+LED Lamps only use only 10 watts.  
+Slightly more durable 60 hp vs. basic lamp of 50.  
+Light color is more of a natual white light RGB 250,250,250.  
+Only 3kg vs 4kg  
+Way less chance of casuing fire.  
 
-Requires:
+Requires:  
 
 10 steel and 1 component  
 400 Research on Electricity tree  
