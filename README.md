@@ -16,7 +16,7 @@ Way less chance of casuing fire.
 
 Requires:
 
-10 steel and 1 component 
-400 Research on Electricity tree 
-50% increase build time over base lamp (5 vs 7.5 units) 
-6 Construction Required 
+10 steel and 1 component  
+400 Research on Electricity tree  
+50% increase build time over base lamp (5 vs 7.5 units)  
+6 Construction Required  
