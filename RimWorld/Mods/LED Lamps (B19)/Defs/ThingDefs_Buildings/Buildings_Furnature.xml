@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <ThingDef Abstract="True" Name="LEDLampBase" ParentName="LampBase">
+    <graphicData>
+      <texPath>Things/Building/Furniture/LampStanding</texPath>
+    </graphicData>
+    <costList>
+      <Steel>10</Steel>
+	  <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+	<statBases>
+		<Mass>3</Mass>
+		<MaxHitPoints>60</MaxHitPoints>
+		<WorkToBuild>450</WorkToBuild>
+		<Flammability>0.1</Flammability>
+	</statBases>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>10</basePowerConsumption>
+        <shortCircuitInRain>false</shortCircuitInRain>
+      </li>
+    </comps>
+  </ThingDef>
+  
+  <ThingDef ParentName="LEDLampBase" >
+    <defName>LEDLamp</defName>
+    <label>LED Lamp</label>
+    <description>Standing lamp that lights an area, uses an energy efficient LED Bulb with natual light color.</description>
+    <designationHotKey>Misc11</designationHotKey>
+    <comps>
+      <li Class="CompProperties_Glower">
+        <glowRadius>12</glowRadius>
+        <glowColor>(250,250,250,0)</glowColor>
+      </li>
+    </comps>
+	<constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+	<researchPrerequisites><li>LEDBulb</li></researchPrerequisites>
+  </ThingDef>
+  
+  
+</Defs>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>LED Lamps (B19)</name>
+	<author>Fr33</author>
+	<targetVersion>0.19.0</targetVersion>
+	<description>
+	Its the future, so why do lights still use so much power? 
+	This Mod adds the ability to research and build standing lamps with LED Bulbs.
+	
+	LED Lamps only use only 10 watts.
+	Slightly more durable 60 hp vs. basic lamp of 50 hp.
+	Light color is more of a natual white light.
+	Only 3kg vs 4kg
+	Way less chance of casuing fire.
+	
+	
+	Requires:
+
+	10 steel and 1 component
+	400 Research on Electricity tree
+	50% increase build time over base lamp (5 vs 7.5 units)
+	6 Construction Required
+	
+	</description>
+</ModMetaData>
