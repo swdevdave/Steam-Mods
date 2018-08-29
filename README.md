@@ -1,6 +1,6 @@
 # SteamMods
 
-Written for A19
+Written for RimWorld A19
 
 A19 brought us finally cheaper energy requirements for Standing lights at 30 Watts.  
 But where are the lights we have today? LED? 
