@@ -2,7 +2,7 @@
 
 Written for A19
 
-A19 brought us finally cheaper energy requirements for Standing lights at 30 Watts. 
+A19 brought us finally cheaper energy requirements for Standing lights at 30 Watts.  
 But where are the lights we have today? LED? 
 
 Well here you go.
