@@ -12,7 +12,7 @@ Well here you go.
 LED Lamps only use only 10 watts.  
 Slightly more durable 60 hp vs. basic lamp of 50.  
 Light color is more of a natual white light RGB 250,250,250.  
-Only 3kg vs 4kg  
+Only 3kg vs 4kg.  
 Way less chance of casuing fire.  
 
 Requires:  
