@@ -2,7 +2,13 @@
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1497495306
 
-Written for RimWorld 1.0
+
+## Changelog  
+Updated to support RimWorld 1.0 
+  
+
+### About this mod  
+Written for RimWorld A19.
 
 A19 brought us finally cheaper energy requirements for Standing lights at 30 Watts.  
 But where are the lights we have today? LED? 
@@ -21,3 +27,5 @@ Requires:
 400 Research on Electricity tree  
 50% increase build time over base lamp (5 vs 7.5 units)  
 6 Construction Required  
+
+
