@@ -2,7 +2,7 @@
 
   <ResearchProjectDef>
     <defName>LEDBulb</defName>
-    <label>Light Emitting Diode Lamp</label>
+    <label>LED Lamp</label>
     <description>Allows the production of Lamps with Efficient LED's</description>
     <baseCost>400</baseCost>
     <techLevel>Industrial</techLevel>
