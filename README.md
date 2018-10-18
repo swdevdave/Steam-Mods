@@ -4,7 +4,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1497495306
 
 
 ## Changelog  
-Updated to support RimWorld 1.0 
+10/18/2019 - Updated to support RimWorld 1.0 
   
 
 ### About this mod  
